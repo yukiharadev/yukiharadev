@@ -11,10 +11,18 @@
 
  </div>  
  <div align="center">
-🔭 My name is Nguyen Viet Hoang<br>
-🏫I am studying at DaiNam University<br>
-💬 Ask me about **react, next, flutter**<br>
-📫 How to reach me **nguyenhoang.miyuka@gmail.com**<br>
+   
+- My name is Nguyen Viet Hoang
+   
+- 🏫I am studying at DaiNam University
+
+- 🔭 I’m currently working on [Tic-Tac-Toe-Multiplayer](https://github.com/yukiharasensei/tic-tac-toe-multiplayer.git)
+
+- 🌱 I’m currently learning **NextRouter**
+
+- 💬 Ask me about **react, next, flutter**
+
+- 📫 How to reach me **nguyenhoang.miyuka@gmail.com**
  </div>
 
 
