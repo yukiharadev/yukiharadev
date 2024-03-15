@@ -13,7 +13,7 @@
 
   <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+want+to+be+a+web+developer;I+want+to+be+a+android+app+developer)](https://github.com/yukiharasensei)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+want+to+be+a+web+developer;I+want+to+be+an+android+app+developer)](https://github.com/yukiharasensei)
 
  </div>  
  <div align="center">
