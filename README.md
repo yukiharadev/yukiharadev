@@ -9,16 +9,10 @@
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
+<div align = "center" >
+<br>
 
-  <div align="center">
-
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+want+to+be+a+web+developer;I+want+to+be+an+android+app+developer)](https://github.com/yukiharasensei)
-
- </div> 
- 
- <div align="center">
-   
-- My name is Nguyen Viet Hoang
+- 👋 My name is Nguyen Viet Hoang
    
 - 🏫I am studying at DaiNam University
 
@@ -28,14 +22,15 @@
 
 - 💬 Ask me about **react, next, flutter**
 
-- 📫 How to reach me **nguyenhoang.miyuka@gmail.com** 
+- 📫 How to reach me **nguyenhoang.miyuka@gmail.com**
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+want+to+be+a+web+developer;I+want+to+be+an+android+app+developer)](https://github.com/yukiharasensei)
 
   <br>
 
 ![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?author=Maximilian+Schwarzmüller&quote=Alway+have+fun+while+coding)
 
- </div>
-
+</div>
 
 <br><br>
 
