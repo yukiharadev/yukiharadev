@@ -9,7 +9,6 @@
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-<br>
 
   <div align="center">
 
@@ -30,7 +29,7 @@
 
 - 📫 How to reach me **nguyenhoang.miyuka@gmail.com** 
 
-  <br><br>
+  <br>
 
 ![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?author=Maximilian+Schwarzmüller&quote=Alway+have+fun+while+coding)
 
