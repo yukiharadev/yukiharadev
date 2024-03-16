@@ -80,6 +80,6 @@
 
 <div align= "center">
 
-![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?author=Yukihara+Sensei&quote=Alway+have+fun+while+coding)
+![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?author=Maximilian+Schwarzmüller&quote=Alway+have+fun+while+coding)
   
 </div>
