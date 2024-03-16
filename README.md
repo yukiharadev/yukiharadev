@@ -28,7 +28,12 @@
 
 - 💬 Ask me about **react, next, flutter**
 
-- 📫 How to reach me **nguyenhoang.miyuka@gmail.com**
+- 📫 How to reach me **nguyenhoang.miyuka@gmail.com** 
+
+  <br><br>
+
+![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?author=Maximilian+Schwarzmüller&quote=Alway+have+fun+while+coding)
+
  </div>
 
 
@@ -78,8 +83,3 @@
  </br>
 
 
-<div align= "center">
-
-![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?author=Maximilian+Schwarzmüller&quote=Alway+have+fun+while+coding)
-  
-</div>
