@@ -45,12 +45,15 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,typescript,javascript,react,nextjs,nodejs,express,java,dotnet,mongodb,flutter&perline=6)]()
 
 </br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukiharasensei&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
     
 
 -----
 
-
+<img src="https://raw.githubusercontent.com/n0xgg04/n0xgg04/main/w8ZJLtJbmuph.gif" />
 
 
 ## Connect with me📱  
@@ -75,4 +78,3 @@
 
  </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukiharasensei&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
