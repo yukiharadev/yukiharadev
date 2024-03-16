@@ -13,7 +13,7 @@
 
 - 👋 My name is Nguyen Viet Hoang
    
-- 🏫I am studying at DaiNam University
+- 🏫I am studying at Dai Nam University
 
 - 🔭 I’m currently working on [Tic-Tac-Toe-Multiplayer](https://github.com/yukiharasensei/tic-tac-toe-multiplayer.git)
 
