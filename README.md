@@ -14,7 +14,8 @@
 
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+want+to+be+a+web+developer;I+want+to+be+an+android+app+developer)](https://github.com/yukiharasensei)
 
- </div>  
+ </div> 
+ 
  <div align="center">
    
 - My name is Nguyen Viet Hoang
