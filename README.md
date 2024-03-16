@@ -78,8 +78,8 @@
  </br>
 
 
-```
->Alway have fun while coding
--YukiharaDev
+<div align= "center">
 
-```
+![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?author=Yukihara+Sensei&quote=Alway+have+fun+while+coding)
+  
+</div>
