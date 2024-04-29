@@ -84,4 +84,9 @@
 
  </br>
 
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=yukiharasensei&style=for-the-badge)
+
+</div>
 
