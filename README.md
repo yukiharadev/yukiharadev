@@ -2,7 +2,7 @@
 <br>
 <br>
 <div align="center">
-<img src="https://raw.githubusercontent.com/yukiharasensei/yukiharasensei/main/Qvbl.gif" align="center" style="width: 100%" />
+<img src="https://raw.githubusercontent.com/yukiharadev/yukiharadev/main/Qvbl.gif" align="center" style="width: 100%" />
 </div>  
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
@@ -86,7 +86,7 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=yukiharasensei&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=yukiharadev&style=for-the-badge)
 
 </div>
 
