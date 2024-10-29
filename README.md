@@ -32,7 +32,7 @@
 
   <br>
 
-![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?author=Maximilian+Schwarzmüller&quote=Alway+have+fun+while+coding)
+![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?author=Yukihara&quote=Feeling+Tired)
 
 </div>
 
