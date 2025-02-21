@@ -15,8 +15,6 @@
    
 - 🏫I am studying at Dai Nam University
 
-- 🔭 I’m currently working on [Tic-Tac-Toe-Multiplayer](https://github.com/yukiharasensei/tic-tac-toe-multiplayer.git)
-
 - 🌱 I’m currently learning **NextRouter**
 
 - 💬 Ask me about **react, next, flutter**
